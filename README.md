@@ -14,5 +14,12 @@ A continuacion se muestra una captura del video.
 Primeramente abrimos Blender, nos vamos a archivo (file)luego nuevo(new) y despues 2D animation
 ![Captura de pantalla (1476)](https://user-images.githubusercontent.com/71051834/144946250-87d7d7b8-8d63-4ecd-83be-2a4170f18533.png)
 
+![Captura de pantalla (1477)](https://user-images.githubusercontent.com/71051834/144947121-a3e897f8-8dd5-4d9b-b546-71b3314da82e.png)
+
+![Captura de pantalla (1478)](https://user-images.githubusercontent.com/71051834/144947183-8d2ed4aa-b9a6-4e95-8b15-427c62469f09.png)
+
+![Captura de pantalla (1479)](https://user-images.githubusercontent.com/71051834/144947242-f5b0440d-f9fc-42bc-a6a5-27f4f18c8214.png)
+
+
 
 
