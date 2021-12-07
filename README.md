@@ -11,7 +11,8 @@ El video que se ocupo para realizar la rotoscopia se encuentra en este enlance h
 A continuacion se muestra una captura del video.
 ![Captura de pantalla (1474) png](https://user-images.githubusercontent.com/71051834/144941890-a5092df3-6345-4bc1-84a2-07a384e1829b.jpg)
 
-Primeramente abrimos Blender
+Primeramente abrimos Blender, nos vamos a archivo (file)luego nuevo(new) y despues 2D animation
+![Captura de pantalla (1476)](https://user-images.githubusercontent.com/71051834/144946250-87d7d7b8-8d63-4ecd-83be-2a4170f18533.png)
 
 
 
