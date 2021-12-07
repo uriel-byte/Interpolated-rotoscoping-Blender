@@ -9,5 +9,7 @@ Para realizar esta animacion se ocupo el software Blender aunque no es su propó
 
 El video que se ocupo para realizar la rotoscopia se encuentra en este enlance https://www.youtube.com/watch?v=Dlf1_vuIR4I solo se tomaron los utimos 20 segundos.
 A continuacion se muestra una captura del video.
+![Captura de pantalla (1474) png](https://user-images.githubusercontent.com/71051834/144941890-a5092df3-6345-4bc1-84a2-07a384e1829b.jpg)
+
 
 
