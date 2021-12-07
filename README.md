@@ -23,6 +23,9 @@ Esta es para importar el video que se va a ocupar.
 
 ![Captura de pantalla (1479)](https://user-images.githubusercontent.com/71051834/144947242-f5b0440d-f9fc-42bc-a6a5-27f4f18c8214.png)
 
+En esta ultima captura se empieza a dibujar las acciones de personaje fotograma por fotograma
+![Captura de pantalla (1480)](https://user-images.githubusercontent.com/71051834/144948751-02d7eb82-3eb8-42ae-a073-04d5324eafb4.png)
 
-
+ASI QUEDARIA QUITANDO EL FONDO EN ESTE CASO EL VIDEO.
+![Captura de pantalla (1472)](https://user-images.githubusercontent.com/71051834/144948780-66178ef8-c906-410b-99e5-efa0b8bb7e77.png)
 
